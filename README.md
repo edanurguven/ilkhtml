@@ -1,2 +1,2 @@
 # ilkhtml
-Kodluyoruz eğitiminde ilk web site.
+##Kodluyoruz eğitimindeki web site geliştirildi.
